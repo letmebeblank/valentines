@@ -148,7 +148,7 @@ const App: React.FC = () => {
             <h1 className="text-5xl md:text-6xl font-bold text-pink-600 mb-6 drop-shadow-sm">YAY! 🎉</h1>
             <div className="mb-8 overflow-hidden rounded-2xl shadow-xl border-4 border-white/50 bg-white">
               <img 
-                src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5xMzhiYjZmem5pczgzbTVyajV3MXJiYTRlZGdvcG02MTZmMW42ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NimEavznszKtW/giphy.gif" 
+                src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR6NDZkazIwNWx0amRxdnZsY3Y5aDZ6ajY5cWxtNGVhdnNucXNsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" 
                 alt="Celebration GIF" 
                 className="w-full h-auto"
               />
