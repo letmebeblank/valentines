@@ -102,7 +102,7 @@ const App: React.FC = () => {
             </div>
             
             <h1 className="text-3xl md:text-5xl font-bold text-gray-800 mb-8 leading-tight drop-shadow-sm">
-              DISHAAAAA, <br />
+              GUNDIIIII, <br />
               <span className="text-2xl md:text-4xl text-pink-600">will you be my Valentine?</span>
             </h1>
 
